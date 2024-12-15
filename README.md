@@ -18,3 +18,6 @@
 ---
 > Getting the user input:
 ![Getting the user input..](./UserInput.png "Getting the user input.")
+>
+> Keep getting the user input until the user entered the command "DONE":
+![Keep asking the user img..](./DONE.png "Keep asking the user.")
