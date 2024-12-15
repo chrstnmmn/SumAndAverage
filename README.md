@@ -44,10 +44,10 @@
 >> - This line calculates the average of the entered numbers.
 >> - It divides the ***sumOfNum*** by **count** (the number of numbers entered).
 >> - The result is stored in the variable **average**, which is declared as a **double** to ensure accurate representation of the average value.
->> 4. **System.out.println("Average: " + Math.round(average));**
+> 4. **System.out.println("Average: " + Math.round(average));**
 >> - This line prints the calculated average.
 >> - **Math.round(average)** rounds the average to the nearest integer.
->> 5. **else { System.out.println("No numbers were entered"); }**
+> 5. **else { System.out.println("No numbers were entered"); }**
 >> - This block executes if **count** is less than or equal to 0 (meaning no numbers were entered).
 >> - It prints a message to the user, informing them that no numbers were entered.
 ---
