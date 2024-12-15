@@ -1,11 +1,14 @@
 <h1 style = "text-align: center" >JAVA PROJECT 101</h1>
 
-#### Hi everyone, I'm excited to share my first ever Java project with you. This is part of my journey learning how to code, and it's also a way for me to track my progress as I work on improving myself this year.
+#### Hi everyone, I'm excited to share my first ever Java project with you. This is part of my journey learning how to code, and it's also a way for me to track my progress as I work on improving myself this year. :blush::blush:
 
 ---
 
 ## This project is all about summing up the number and getting the average.
 
+> #### How to run:
+> - Just click the .exe file to run the program
+> - Its more easy and convenient if you want a preview of the system without opening the source code.
 ### Here is the Algorithm:
 
 > - Start
@@ -55,4 +58,4 @@
 #### :grin: facebook: https://www.facebook.com/Chrstnmmnl
 #### :heart_eyes: instagram: https://www.instagram.com/chrstnmmnl/
 #### :open_mouth: dribble: https://dribbble.com/chrstnmmnl
-#### :kissing: linkedin: https://www.linkedin.com/in/chrstnmmnl/?originalSubdomain=ph
+#### :kissing: linkedin: https://www.linkedin.com/in/chrstnmmnl/?originalSubdomain=php
