@@ -52,4 +52,7 @@
 >> - It prints a message to the user, informing them that no numbers were entered.
 ---
 ### My Social Links:
-> ![Getting the sum and average..](./512.gif "Getting the sum and average.")
+#### :grin: facebook: https://www.facebook.com/Chrstnmmnl
+#### :heart_eyes: instagram: https://www.instagram.com/chrstnmmnl/
+#### :open_mouth: dribble: https://dribbble.com/chrstnmmnl
+#### :kissing: linkedin: https://www.linkedin.com/in/chrstnmmnl/?originalSubdomain=ph
