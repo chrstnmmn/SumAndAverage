@@ -32,6 +32,16 @@
 >
 > Getting the Sum and Average:
 > ![Getting the sum and average..](./SUMAVG.png "Getting the sum and average.")
+```
+if (count > 0) {
+        System.out.println("Sum of all numbers: " + Math.round(sumOfNum));
+        // getting the average by dividing the sum into the lenght of the input
+        double average = sumOfNum / count;
+        System.out.println("Average: " + Math.round(average));
+      } else {
+        System.out.println("No numbers were entered");
+      }
+```
 >
 > 1. This line checks if the variable **count** is greater than 0. The variable **count** likely represents the number of numbers that have been entered by the user. 
 >> - If **count** is greater than 0, it means at least one number has been entered, and the code inside the **if** block will execute. 
