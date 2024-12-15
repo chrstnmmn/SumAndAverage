@@ -51,4 +51,5 @@
 >> - This block executes if **count** is less than or equal to 0 (meaning no numbers were entered).
 >> - It prints a message to the user, informing them that no numbers were entered.
 ---
-
+### My Social Links:
+> ![Getting the sum and average..](./512.gif "Getting the sum and average.")
