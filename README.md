@@ -14,4 +14,7 @@
 > - Getting the average
 > 
 
+### Code snippets 
+---
+> Getting the user input:
 ![Getting the user input..](./UserInput.png "Getting the user input.")
