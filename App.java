@@ -1,10 +1,10 @@
 import java.util.*;
 
 public class App {
-  public static void main(String[] args) throws Exception {
-    // Creating instance of an object
-    Scanner Input = new Scanner(System.in); // Instance of a scanner
+  // Creating instance of an object
+  public static Scanner Input = new Scanner(System.in); // Instance of a scanner
 
+  public static void SumandAvg() {
     String userInput = null;
     double sumOfNum = 0;
     int count = 0;
@@ -42,10 +42,24 @@ public class App {
       if (!"DONE".equals(userInput)) {
         System.out.println("Invalid input!");
       }
-    } finally {
-      System.out.println("Program closed.");
-      // closing the scanner so it won't leak memory
-      Input.close();
     }
+  }
+
+  public static void main(String[] args) throws Exception {
+    String userInput = " ";
+
+    // This is checks if the user wants to exit
+    // It's also a safe call so that the program won't suddenly closed
+    while (!userInput.equals("Y")) {
+      SumandAvg();
+      System.out.print("Would you like to exit now? (Y/N): ");
+      userInput = Input.nextLine().toUpperCase();
+
+      if (userInput.equals("Y")) {
+        break;
+      }
+    } 
+    Input.close();
+    System.exit(0);
   }
 }
